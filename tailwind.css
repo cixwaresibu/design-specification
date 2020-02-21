@@ -59712,3 +59712,25 @@ video {
   border: 1px red solid;
   border-radius: 50%;
 }
+.member-img{
+  height: 180px;
+  width: 180px;
+  border: 1px blue solid;
+  border-radius: 50%;
+}
+.fb
+{
+    color: #4267B2;
+}
+.twt
+{
+    color: #38A1F3;
+}
+.git
+{
+    color:#6e5494;
+}
+.lin
+{
+    color: #0077B5;
+}
