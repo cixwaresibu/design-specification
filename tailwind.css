@@ -59689,3 +59689,20 @@ video {
 .bg-header{
   background-color: #273C75;
 }
+.sibu{
+  opacity: 65%;
+  background-color: rgb(100, 114, 235);
+}
+.don{
+  height: 400px;
+  width: 400px;
+  border: 2px white solid;
+  border-radius: 50%;
+  opacity: 90%;
+}
+.products{
+  height: 180px;
+  width: 180px;
+  border: 1px blue solid;
+  border-radius: 50%;
+}
