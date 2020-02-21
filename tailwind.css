@@ -59706,3 +59706,9 @@ video {
   border: 1px blue solid;
   border-radius: 50%;
 }
+.skills{
+  height: 180px;
+  width: 180px;
+  border: 1px red solid;
+  border-radius: 50%;
+}
