@@ -59690,7 +59690,7 @@ video {
   background-color: #273C75;
 }
 .sibu{
-  opacity: 65%;
+  opacity: 75%;
   background-color: rgb(100, 114, 235);
 }
 .don{
@@ -59698,7 +59698,7 @@ video {
   width: 400px;
   border: 2px white solid;
   border-radius: 50%;
-  opacity: 90%;
+  opacity: 95%;
 }
 .products{
   height: 180px;
@@ -59718,6 +59718,23 @@ video {
   border: 1px blue solid;
   border-radius: 50%;
 }
+input[type=text],[type=email] {
+  border: none;
+  background: transparent;
+  border-bottom: 1px red solid;
+  outline: none;
+  color: #273C75;
+  height: 30px;
+}
+textarea{
+  border: none;
+  background: transparent;
+  border-bottom: 1px red solid;
+  outline: none;
+  color: #273C75;
+  
+}
+
 .fb
 {
     color: #4267B2;
