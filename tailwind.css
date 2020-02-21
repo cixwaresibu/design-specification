@@ -59686,7 +59686,7 @@ video {
 /*# sourceMappingURL=tailwind.css.map */
 
 /* Custom CSS Goes here */
-.bg-header{
+.bg-header, .bg-footer{
   background-color: #273C75;
 }
 .sibu{
