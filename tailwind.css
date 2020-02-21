@@ -59723,7 +59723,7 @@ input[type=text],[type=email] {
   background: transparent;
   border-bottom: 1px red solid;
   outline: none;
-  color: #273C75;
+  color: rgb(0, 0, 0);
   height: 30px;
 }
 textarea{
@@ -59731,7 +59731,7 @@ textarea{
   background: transparent;
   border-bottom: 1px red solid;
   outline: none;
-  color: #273C75;
+  color: rgb(16, 70, 219);
   
 }
 
